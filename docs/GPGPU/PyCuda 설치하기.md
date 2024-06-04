@@ -1,3 +1,7 @@
+[Previous](..)
+## PyCuda 설치하기
+[Previous]()
+##  PyCuda 설치하기
 - http://documen.tician.de/pyopencl/
 - http://wiki.tiker.net/PyOpenCL/Installation
 

@@ -1,3 +1,5 @@
+[Previous](..)
+## sRGB
 PIl은 sRGB 이미지를 불러오던 linear RGB를 불러오던 모두 선형으로 데이터를 변환한다.
 
 sRGB 이미지를 open하면 pow(color, 2.2)를 해주어 선형으로 만들어 버리고

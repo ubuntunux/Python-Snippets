@@ -1,3 +1,5 @@
+[Previous](..)
+## numpy로 데이터 pointer(포인터) 주소 알아내기
 [https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.ctypes.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.ctypes.html)
 
 ```

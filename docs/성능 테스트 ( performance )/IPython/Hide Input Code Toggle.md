@@ -1,3 +1,5 @@
+[Previous](..)
+## Hide Input Code Toggle
 방법1
 
     from IPython.display import display

@@ -1,3 +1,5 @@
+[Previous](..)
+## Python 프로그램 재시작 하기 코드
 http://ahmedsoliman.com/2011/09/21/auto-restarting-python-application/
 
 파이썬이 종료될때 자동으로 다시 재시작하는 예제이다.

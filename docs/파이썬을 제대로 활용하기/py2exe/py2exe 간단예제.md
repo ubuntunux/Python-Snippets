@@ -1,3 +1,5 @@
+[Previous](..)
+## py2exe 간단예제
 ```
 from distutils.core import setup
 import py2exe, sys, os, pyopencl

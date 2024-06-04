@@ -1,3 +1,5 @@
+[Previous](..)
+## Write
 ```
 from PIL import Image
 

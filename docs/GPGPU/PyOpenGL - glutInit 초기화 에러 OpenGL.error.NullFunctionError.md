@@ -1,3 +1,5 @@
+[Previous](..)
+## PyOpenGL - glutInit 초기화 에러 OpenGL.error.NullFunctionError
 PyOpenGL을 설치하고 glutInit로 초기화하려 할때 에러가 발생하는 경우가 있다.
 가장 흔한 경우는 windows의 경우 freeglut.dll이 없는 경우인데 freeglut 사이트를 방문하여 dll을 다운받을수 있다.
 ubuntu의 경우는 간단하게 sudo apt-get install freeglut3-dev 명령으로 다운받을 수 있다.

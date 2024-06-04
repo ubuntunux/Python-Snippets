@@ -1,3 +1,5 @@
+[Previous](..)
+## Hyperlink
     from Tkinter import *
     
     class HyperlinkManager:

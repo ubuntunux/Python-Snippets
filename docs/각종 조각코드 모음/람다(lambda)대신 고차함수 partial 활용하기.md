@@ -1,3 +1,5 @@
+[Previous](..)
+## 람다(lambda)대신 고차함수 partial 활용하기
 lambda대신 partial로 함수를 만들어 넘길때 자주 사용한다. 알아보자
 
     from functools import partial

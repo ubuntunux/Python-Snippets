@@ -1,3 +1,5 @@
+[Previous](..)
+## Eclipse, PyCharm에서 LD_LIBRARY_PATH를 인식 못할때 ( profile과 .bashrc의 차이 ) 
 http://mataeoh.egloos.com/7069644
 
 나처럼 아주아주 황당한 경우를 겪은 사람에게 도움이 되었으면 좋겠다.

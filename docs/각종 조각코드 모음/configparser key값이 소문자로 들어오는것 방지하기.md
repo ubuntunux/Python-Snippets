@@ -1,3 +1,5 @@
+[Previous](..)
+## configparser key값이 소문자로 들어오는것 방지하기
 ConfigParser를 사용하다보면 이상한점이 한가지 있다. 아래와 같이 SHADER_DEFINE_TEST라는 값이 있는데 python으로 해당값을 실제 가져와보면 소문자로 바뀌어 있는것이다.
     
     [Define]

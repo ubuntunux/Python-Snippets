@@ -1,3 +1,5 @@
+[Previous](..)
+## Python FFI with ctypes and cffi
 [원문] : [http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 
 이전 글에서는 libffi를 사용하여 C 코드에 대한 동적 호출을 수행하는 방법을 설명했습니다. 여기서 "완전 동적"은 인수 및 반환 값의 유형조차도 런타임에 결정된다는 것을 의미합니다.

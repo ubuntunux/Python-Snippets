@@ -1,3 +1,5 @@
+[Previous](..)
+## XML 간단 예제
 https://docs.python.org/2/library/xml.etree.elementtree.html
     
     from xml.etree.ElementTree import Element, dump, parse, SubElement, ElementTree, tostring

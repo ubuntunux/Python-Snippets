@@ -1,3 +1,5 @@
+[Previous](..)
+## py2exe 다른 글
 [원문] : [http://www.gamedevforever.com/235](http://www.gamedevforever.com/235)
 
 요즘 파이썬을 만지작 거리며 재미를 붙이고 있는 친절한티스입니다. 요게 쓰면 쓸수록 매력적인 언어네요. 최근에는 파이썬을 이용해 Unity Build Maker를 만들어 유용하게 사용 중입니다. 

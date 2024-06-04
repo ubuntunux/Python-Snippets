@@ -1,3 +1,5 @@
+[Previous](..)
+## PyOpenGL - py2exe로 배포하기
 [http://mataeoh.egloos.com/7088522](http://mataeoh.egloos.com/7088522)
 
 I played with getting a py2exe executable created from PyOpenGL today, and it is very close to working.  The basics:

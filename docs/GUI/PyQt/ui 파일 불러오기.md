@@ -1,3 +1,5 @@
+[Previous](..)
+## ui 파일 불러오기
     from PyQt4 import QtGui, uic
     
     class Window(QtGui.QMainWindow):

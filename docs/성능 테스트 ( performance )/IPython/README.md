@@ -3,4 +3,4 @@
 - [Hide Input Code Toggle](Hide%20Input%20Code%20Toggle.md)
 - [Toggle Input 버튼 추가하기](Toggle%20Input%20버튼%20추가하기.md)
 - [ipywidgets](ipywidgets.md)
-- [간단한 그래프 그리기](간단한%20그래프%20그리기.md)
+- [2D 그래프 예제](간단한%20그래프%20그리기.md)

@@ -1,3 +1,5 @@
+[Previous](..)
+## Quick sort
     import random
     
     myList = []

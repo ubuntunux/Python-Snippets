@@ -1,3 +1,5 @@
+[Previous](..)
+## pip 설치하기
 1. 아래의 링크로가서 get-pip.py 파일을 다운 받는다.
 
 https://pip.pypa.io/en/latest/installing/

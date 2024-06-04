@@ -1,3 +1,5 @@
+[Previous](..)
+## Python Performance Tips
 [https://wiki.python.org/moin/PythonSpeed/PerformanceTips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips/)
 
 

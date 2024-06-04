@@ -1,3 +1,5 @@
+[Previous](..)
+## Dictionary
 ```
 # person dictionary 만드는 방법 1
 >>> person = {'name': 'smith', 'age': 23}

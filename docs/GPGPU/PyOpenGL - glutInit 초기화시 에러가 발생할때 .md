@@ -1,3 +1,5 @@
+[Previous](..)
+## PyOpenGL - glutInit 초기화시 에러가 발생할때.. 
 http://mataeoh.egloos.com/7088520
 
 * Error Message

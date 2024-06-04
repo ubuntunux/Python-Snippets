@@ -1,3 +1,5 @@
+[Previous](..)
+## Python encoding 체계 정리
 ```
 Python encoding 체계 정리
 

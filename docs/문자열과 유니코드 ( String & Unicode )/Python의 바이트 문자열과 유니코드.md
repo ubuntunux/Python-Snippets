@@ -1,3 +1,5 @@
+[Previous](..)
+## Python의 바이트 문자열과 유니코드
 [https://stackoverflow.com/questions/6224052/what-is-the-difference-between-a-string-and-a-byte-string](https://stackoverflow.com/questions/6224052/what-is-the-difference-between-a-string-and-a-byte-string)
 
 컴퓨터가 저장할 수있는 유일한 것은 바이트입니다.

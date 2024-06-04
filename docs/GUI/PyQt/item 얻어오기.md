@@ -1,3 +1,5 @@
+[Previous](..)
+## item 얻어오기
     class Window(QtGui.QMainWindow):
         def __init__(self):
             super(Window, self).__init__()

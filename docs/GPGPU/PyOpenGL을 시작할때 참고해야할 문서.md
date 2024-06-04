@@ -1,3 +1,5 @@
+[Previous](..)
+## PyOpenGL을 시작할때 참고해야할 문서
 PyOpenGL을 시작할때 참고해야할 문서
 
 원문 : [http://www.siafoo.net/article/58](http://www.siafoo.net/article/58)

@@ -1,3 +1,5 @@
+[Previous](..)
+## Enum
     8.13. enum — Support for enumerations
     New in version 3.4.
     

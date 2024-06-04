@@ -1,3 +1,7 @@
+[Previous](..)
+## PyOpenGL - AttributeError - 'numpy.ndarray' object has no attribute 'buffers' 
+[Previous]()
+## PyOpenGL - AttributeError: 'numpy.ndarray' object has no attribute 'buffers' 
 동일한 문제에 관한 글이 있다. 참고하자
 https://sourceforge.net/p/pyopengl/mailman/message/32863450/
 

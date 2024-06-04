@@ -1,3 +1,5 @@
+[Previous](..)
+## MSSQL 간단 예제
     import pymssql
     conn = pymssql.connect(host='10.3.201.80', user='SMILEGATE\\thyoon', password='password', database='DataViewer')
     cur = conn.cursor()

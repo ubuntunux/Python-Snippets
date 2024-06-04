@@ -1,3 +1,5 @@
+[Previous](..)
+## analyzing python ( 프로파일링 )
     https://www.huyng.com/posts/python-performance-analysis
     
     A guide to analyzing Python performance

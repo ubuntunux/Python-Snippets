@@ -1,3 +1,5 @@
+[Previous](..)
+## Kivy - Buildozer로 Android APK 만들기
 http://mataeoh.egloos.com/7088515
 
 가장먼저 buildozer install하기

@@ -1,3 +1,5 @@
+[Previous](..)
+## win32com 모듈을 py2exe로 내보낼때 IOError 해결
 win32com을 사용중인 경우 py2exe로 만들경우 실행파일은 잘 생성되나 실행시 IOError가 발생한다.
 
 에러 내용은 win32com\gen_py\__init__.pyc파일을 찾을수 없다는것.

@@ -1,3 +1,5 @@
+[Previous](..)
+##  PyCuda - py2exe로 배포하기
 http://mataeoh.egloos.com/7088524
 
 ** 1. setup.py 파일구성 **

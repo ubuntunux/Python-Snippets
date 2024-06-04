@@ -1,3 +1,6 @@
+[Previous](..)
+## 파일 read & write 예제
+
 파일 불러오기
 
     f = open("filename.txt", "r")
