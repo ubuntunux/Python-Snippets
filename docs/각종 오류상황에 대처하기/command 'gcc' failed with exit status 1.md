@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## command 'gcc' failed with exit status 1
     distutils.errors.DistutilsError: Setup script exited with error: command 'gcc' failed with exit status 1
 

@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Memory Gabage Collection
 https://docs.python.org/3/library/gc.html
 

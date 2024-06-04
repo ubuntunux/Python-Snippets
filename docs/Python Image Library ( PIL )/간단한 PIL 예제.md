@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 간단한 PIL 예제
 ```
 http://mataeoh.egloos.com/7063973

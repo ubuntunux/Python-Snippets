@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## pypy에서 pip 설치하기
 1. get-pip.py 파일을 다운받는다.
 https://bootstrap.pypa.io/get-pip.py

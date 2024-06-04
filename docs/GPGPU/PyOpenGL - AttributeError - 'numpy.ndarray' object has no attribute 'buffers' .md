@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## PyOpenGL - AttributeError - 'numpy.ndarray' object has no attribute 'buffers' 
 [Previous]()
 ## PyOpenGL - AttributeError: 'numpy.ndarray' object has no attribute 'buffers' 

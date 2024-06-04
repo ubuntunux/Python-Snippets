@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 비어있는 폴더를 모두 지우기 ( Delete a directory recursively in Python )
 ```
 import os

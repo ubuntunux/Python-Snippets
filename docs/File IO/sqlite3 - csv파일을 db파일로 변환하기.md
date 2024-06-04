@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## sqlite3 - csv파일을 db파일로 변환하기
     import sqlite3
     import csv

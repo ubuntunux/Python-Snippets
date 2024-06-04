@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## numpy array 값 복사 성능테스트
 ```
 python에서 numpy로 array를 복사하는 방법에는 여러가지가 있는데 갑자기 성능에대한 궁금증이 생겨서 몇가지 테스트를 해보았습니다. 의외로 방법들마다 차이가 있었습니다.ㅎ

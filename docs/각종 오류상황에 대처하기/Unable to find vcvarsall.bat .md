@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## error: Unable to find vcvarsall.bat 
 http://mataeoh.egloos.com/7066046
 

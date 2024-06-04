@@ -7,7 +7,7 @@
 
 코드에 대한 모음집과 간략한 팁 모음등으로 이루어져 있습니다.
 
-- Book: [Python Snippets - 파이썬 조각 코드 모음](https://github.com/ubuntunux/Python-Snippets/blob/main/docs) 
+- Book: [Python Snippets - 파이썬 조각 코드 모음](https://github.com/ubuntunux/Python-Snippets/blob/main/docs/README.md) 
 - Email : ubuntunux@gmail.com
 - Github: https://github.com/ubuntunux
 

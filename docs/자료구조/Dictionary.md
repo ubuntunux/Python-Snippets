@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Dictionary
 ```
 # person dictionary 만드는 방법 1

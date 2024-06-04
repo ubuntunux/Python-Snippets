@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## PyOpenGL - py2exe로 배포하기
 [http://mataeoh.egloos.com/7088522](http://mataeoh.egloos.com/7088522)
 

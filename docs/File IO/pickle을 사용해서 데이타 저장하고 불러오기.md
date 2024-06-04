@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## pickle을 사용해서 데이타 저장하고 불러오기
 데이터를 저장하고 불러올때 매우 유용한 라이브러리이다.
 

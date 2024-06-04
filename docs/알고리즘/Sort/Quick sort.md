@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Quick sort
     import random
     

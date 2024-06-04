@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## py2exe 다른 글
 [원문] : [http://www.gamedevforever.com/235](http://www.gamedevforever.com/235)
 

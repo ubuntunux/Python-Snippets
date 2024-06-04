@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 람다(lambda)
     def sum(a, b):
         print(a+b)

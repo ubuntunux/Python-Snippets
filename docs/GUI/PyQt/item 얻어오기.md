@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## item 얻어오기
     class Window(QtGui.QMainWindow):
         def __init__(self):

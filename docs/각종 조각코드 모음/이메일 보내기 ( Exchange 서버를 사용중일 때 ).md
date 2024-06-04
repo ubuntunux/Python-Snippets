@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 이메일 보내기 ( Exchange 서버를 사용중일 때 )
     import smtplib
     

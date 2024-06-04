@@ -8,7 +8,7 @@ document_dirname = 'docs'
 image_dirname = 'img'
 markdown_ext = '.md'
 readme_filename = 'README' + markdown_ext
-previous_url = f'[Previous](..)'
+previous_url = f'[CONTENTS](README.md)'
 
 
 class Content:

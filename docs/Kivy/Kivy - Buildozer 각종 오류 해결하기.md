@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Kivy - Buildozer 각종 오류 해결하기
 1. kivy 1.9.0 버전을 buildozer로 apk를 만들경우 몇가지 버전을 맞추어주어야 한다.
 

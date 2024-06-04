@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ##  setattr )
 ```
 class cls:

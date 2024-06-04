@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Python 프로그램 재시작 하기 코드
 http://ahmedsoliman.com/2011/09/21/auto-restarting-python-application/
 

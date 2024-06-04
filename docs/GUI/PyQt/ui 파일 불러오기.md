@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## ui 파일 불러오기
     from PyQt4 import QtGui, uic
     

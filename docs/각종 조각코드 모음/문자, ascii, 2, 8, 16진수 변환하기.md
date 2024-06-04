@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 문자, ascii, 2, 8, 16진수 변환하기
 문자 A를 ascii코드로 출력하기
 

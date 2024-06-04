@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Numpy로 구조체 만들기
 https://docs.scipy.org/doc/numpy-1.13.0/user/basics.rec.html
 

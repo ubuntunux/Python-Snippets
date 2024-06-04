@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## python for perforce
 help : http://www.perforce.com/perforce/doc.current/manuals/p4script/chapter.python.html
 

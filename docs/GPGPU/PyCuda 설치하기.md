@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## PyCuda 설치하기
 [Previous]()
 ##  PyCuda 설치하기

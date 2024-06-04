@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Toggle Input 버튼 추가하기
     custom.js 파일을 열고 아래의 코드를 붙여넣는다. (경로 : C:\Users\Taeromi\.ipython\profile_default\static\custom\custom.js) 
     

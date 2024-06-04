@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Python으로 C++ 컴파일 하기
 ```
 from distutils.core import setup, Extension

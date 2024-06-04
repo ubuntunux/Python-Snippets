@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## 사용가능한 port번호 알아내기
 TCP 로 서비스를 하려고 하면 port 를 구해야 합니다.
 물론 1024 이하의 Well-Known Port 라 하여

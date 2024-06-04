@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Python의 바이트 문자열과 유니코드
 [https://stackoverflow.com/questions/6224052/what-is-the-difference-between-a-string-and-a-byte-string](https://stackoverflow.com/questions/6224052/what-is-the-difference-between-a-string-and-a-byte-string)
 

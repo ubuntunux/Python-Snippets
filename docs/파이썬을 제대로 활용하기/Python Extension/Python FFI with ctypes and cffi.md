@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Python FFI with ctypes and cffi
 [원문] : [http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 

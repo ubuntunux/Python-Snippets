@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## py2exe 간단예제
 ```
 from distutils.core import setup

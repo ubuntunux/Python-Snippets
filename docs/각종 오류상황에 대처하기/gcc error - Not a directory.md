@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## gcc: error trying to exec 'cc1plus': execvp: Not a directory
 파이썬에서 모듈을 설치할때 python setup.py install 명령을 자주 사용하게 되는데 소스코드로 부터 빌드할 경우 C컴파일러를 필요로 하게 된다.
 Python으로 setup.py 파일을 설치할때 아래와 같이 gcc 에러가 나는 경우가 있다.

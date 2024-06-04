@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## win32com 모듈 py2exe로 배포하기
 ```
 #python setup.py py2exe

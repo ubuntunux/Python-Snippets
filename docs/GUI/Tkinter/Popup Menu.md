@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 # create a menu
 ```
 from Tkinter import *

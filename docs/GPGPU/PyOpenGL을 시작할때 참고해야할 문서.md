@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## PyOpenGL을 시작할때 참고해야할 문서
 PyOpenGL을 시작할때 참고해야할 문서
 

@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Insert Sort
     import random
     

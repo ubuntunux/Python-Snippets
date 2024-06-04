@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## multi method 오버로드
     #---------------------#
     # MultiMethod

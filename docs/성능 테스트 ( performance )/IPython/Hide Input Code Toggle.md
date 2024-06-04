@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Hide Input Code Toggle
 방법1
 

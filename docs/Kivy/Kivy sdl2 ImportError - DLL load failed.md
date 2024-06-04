@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Kivy 실행중 sdl2 - ImportError: DLL load failed 에러
 ```
 sdl2 - ImportError: DLL load failed: 지정된 모듈을 찾을 수 없습니다.

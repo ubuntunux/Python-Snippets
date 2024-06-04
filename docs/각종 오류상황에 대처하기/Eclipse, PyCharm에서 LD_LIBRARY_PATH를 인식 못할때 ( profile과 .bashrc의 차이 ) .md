@@ -1,4 +1,4 @@
-[Previous](..)
+[CONTENTS](README.md)
 ## Eclipse, PyCharm에서 LD_LIBRARY_PATH를 인식 못할때 ( profile과 .bashrc의 차이 ) 
 http://mataeoh.egloos.com/7069644
 
