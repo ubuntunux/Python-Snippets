@@ -1,14 +1,15 @@
-# Python-Snippets
+# Python Snippets
 
-![](docs/img/PythonSnippets.jpg)
+[![](docs/img/PythonSnippets.jpg)](docs/contents.md)
 
 
 이 책은 실전에서 필요한 핵심 코드들만 짧게 모아놓은 조각 코드 모음집입니다.
 
 코드에 대한 모음집과 간략한 팁 모음등으로 이루어져 있습니다.
 
-- email : ubuntunux@gmail.com
-- github: https://github.com/ubuntunux
+- Book: [Python Snippets - 파이썬 조각 코드 모음](https://github.com/ubuntunux/Python-Snippets/docs/contents.md) 
+- Email : ubuntunux@gmail.com
+- Github: https://github.com/ubuntunux
 
 
 ### 들어가며
