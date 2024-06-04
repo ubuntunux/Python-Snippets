@@ -1,5 +1,5 @@
 ### [Python Snippets](../README.md) / [성능 테스트 ( performance )](README.md)
-- [IPython](IPython)
+- [> IPython](IPython/README.md)
 - [Memory Gabage Collection](Memory%20Gabage%20Collection.md)
 - [Numpy로 최고의 성능 얻기 ](Numpy로%20최고의%20성능%20얻기%20.md)
 - [Python Performance Tips](Python%20Performance%20Tips.md)

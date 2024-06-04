@@ -1,6 +1,6 @@
 ### [Python Snippets](../README.md) / [GPGPU](README.md)
-- [PyOpenCL ](PyOpenCL%20)
-- [PyOpenCL](PyOpenCL)
+- [> PyOpenCL ](PyOpenCL%20/README.md)
+- [> PyOpenCL](PyOpenCL/README.md)
 - [PyOpenGL - glutCreateWindow에서 wrong type 에러](PyOpenGL%20-%20glutCreateWindow에서%20wrong%20type%20에러.md)
 - [PyOpenGL - glutInit 초기화 에러 OpenGL.error.NullFunctionError](PyOpenGL%20-%20glutInit%20초기화%20에러%20OpenGL.error.NullFunctionError.md)
 - [PyOpenGL - glutInit 초기화시 에러가 발생할때.. ](PyOpenGL%20-%20glutInit%20초기화시%20에러가%20발생할때..%20.md)
