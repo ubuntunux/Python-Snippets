@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [성능 테스트 ( performance )](../README.md) / [IPython](README.md) /  Ipython notebook - Custom 메뉴 만들기.md
 ##  Ipython notebook - Custom 메뉴 만들기
 ```
 custom.js 파일을 열고 아래의 코드를 붙여넣는다. (경로 : C:\Users\Taeromi\.ipython\profile_default\static\custom\custom.js)

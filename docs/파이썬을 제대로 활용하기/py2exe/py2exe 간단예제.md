@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [py2exe](README.md) / py2exe 간단예제.md
 ## py2exe 간단예제
 ```
 from distutils.core import setup

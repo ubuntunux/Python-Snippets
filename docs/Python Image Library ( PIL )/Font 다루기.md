@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [Python Image Library ( PIL )](README.md) / Font 다루기.md
 ## Font 다루기
 유니코드를 입력해서 text.jpg파일로 저장하는 예제이다. 아래 코드를 실행한후 이미지 뷰어로 text.jpg 파일을 열어보면 텍스트가 그려져 있을것이다.
 

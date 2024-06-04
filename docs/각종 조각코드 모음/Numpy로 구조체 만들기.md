@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Numpy로 구조체 만들기.md
 ## Numpy로 구조체 만들기
 https://docs.scipy.org/doc/numpy-1.13.0/user/basics.rec.html
 

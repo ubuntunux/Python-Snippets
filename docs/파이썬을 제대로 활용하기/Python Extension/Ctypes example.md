@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [Python Extension](README.md) / Ctypes example.md
 #### 구조체(Structure) pack, unpack
 
 ```

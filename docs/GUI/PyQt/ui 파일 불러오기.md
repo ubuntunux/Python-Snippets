@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [GUI](../README.md) / [PyQt](README.md) / ui 파일 불러오기.md
 ## ui 파일 불러오기
     from PyQt4 import QtGui, uic
     

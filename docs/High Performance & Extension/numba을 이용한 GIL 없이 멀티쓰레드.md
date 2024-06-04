@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [High Performance & Extension](README.md) / numba을 이용한 GIL 없이 멀티쓰레드.md
 ### Multithread
 
 [http://numba.pydata.org/numba-doc/dev/user/examples.html](http://numba.pydata.org/numba-doc/dev/user/examples.html)

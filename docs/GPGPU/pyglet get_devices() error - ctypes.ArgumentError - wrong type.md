@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / pyglet get_devices() error - ctypes.ArgumentError - wrong type.md
 ## pyglet get_devices() error - ctypes.ArgumentError: argument 2: <class 'TypeError'>: wrong type
 pyglet.input.get_devices() 실행시 아래와 같은 에러가 발생
 

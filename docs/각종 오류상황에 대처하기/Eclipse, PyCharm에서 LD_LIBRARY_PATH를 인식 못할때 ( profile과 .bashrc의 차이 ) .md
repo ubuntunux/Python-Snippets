@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 오류상황에 대처하기](README.md) / Eclipse, PyCharm에서 LD_LIBRARY_PATH를 인식 못할때 ( profile과 .bashrc의 차이 ) .md
 ## Eclipse, PyCharm에서 LD_LIBRARY_PATH를 인식 못할때 ( profile과 .bashrc의 차이 ) 
 http://mataeoh.egloos.com/7069644
 

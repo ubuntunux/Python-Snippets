@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [알고리즘](README.md) / state machine.md
 ## state machine
     #---------------------#
     # CLASS : StateItem

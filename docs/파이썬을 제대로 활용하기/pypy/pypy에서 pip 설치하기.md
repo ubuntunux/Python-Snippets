@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [pypy](README.md) / pypy에서 pip 설치하기.md
 ## pypy에서 pip 설치하기
 1. get-pip.py 파일을 다운받는다.
 https://bootstrap.pypa.io/get-pip.py

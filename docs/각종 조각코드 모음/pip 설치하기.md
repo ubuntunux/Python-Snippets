@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / pip 설치하기.md
 ## pip 설치하기
 1. 아래의 링크로가서 get-pip.py 파일을 다운 받는다.
 

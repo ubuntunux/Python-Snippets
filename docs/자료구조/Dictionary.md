@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [자료구조](README.md) / Dictionary.md
 ## Dictionary
 ```
 # person dictionary 만드는 방법 1

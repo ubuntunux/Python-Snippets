@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Gabage Collection 사용하기.md
 ## Gabage Collection 사용하기
 Python에는 Gabage Collection이라는 것이 있기 때문에 C/C++ 처럼 메모리를 직접 할당/해제하는 수고를 하지 않아도 되며 메모리를 직접 다룸으로 인해 발생되는 수많은 버그나 위험으로 부터 안전한 편이다. 왜냐하면 Gabage Collection이라는 것이 생성된 객체들을 순회하며 해당 객체가 현재 쓰이는곳이 없을 경우 자동으로 해제를 해주기 때문이다. 그렇다고 사용자가 아무것도 하지 않아서는 안된다. Gabage Collection이 쓸모없어진 객체들을 잘 해제할수 있도록 레퍼런스 카운트에 신경을 써주어야 한다. 특히, 순환참조의 경우는 프로그램이 종료될때까지 메모리에 남아 있게 되므로 특히 주의 하여야 한다.
 

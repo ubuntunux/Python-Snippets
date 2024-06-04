@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / 구글드라이브 다루기 - Google Drive with PyDrive.md
 ## 구글드라이브 다루기 - Google Drive with PyDrive
 https://github.com/gsuitedevs/PyDrive
 

@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / PyOpenGL - AttributeError - 'numpy.ndarray' object has no attribute 'buffers' .md
 ## PyOpenGL - AttributeError - 'numpy.ndarray' object has no attribute 'buffers' 
 [Previous]()
 ## PyOpenGL - AttributeError: 'numpy.ndarray' object has no attribute 'buffers' 

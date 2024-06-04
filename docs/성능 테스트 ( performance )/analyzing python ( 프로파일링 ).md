@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [성능 테스트 ( performance )](README.md) / analyzing python ( 프로파일링 ).md
 ## analyzing python ( 프로파일링 )
     https://www.huyng.com/posts/python-performance-analysis
     

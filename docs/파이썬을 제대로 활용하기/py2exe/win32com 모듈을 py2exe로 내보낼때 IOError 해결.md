@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [py2exe](README.md) / win32com 모듈을 py2exe로 내보낼때 IOError 해결.md
 ## win32com 모듈을 py2exe로 내보낼때 IOError 해결
 win32com을 사용중인 경우 py2exe로 만들경우 실행파일은 잘 생성되나 실행시 IOError가 발생한다.
 

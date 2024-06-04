@@ -1,5 +1,6 @@
-### [Python Snippets](../README.md) / 성능 테스트 ( performance )
-- [IPython](IPython)
+> [Python Snippets](../README.md) / 성능 테스트 ( performance )
+## 성능 테스트 ( performance )
+- [IPython](IPython/README.md)
 	- [ Ipython notebook - Custom 메뉴 만들기](IPython/%20Ipython%20notebook%20-%20Custom%20메뉴%20만들기.md)
 	- [Hide Input Code Toggle](IPython/Hide%20Input%20Code%20Toggle.md)
 	- [Toggle Input 버튼 추가하기](IPython/Toggle%20Input%20버튼%20추가하기.md)

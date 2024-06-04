@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / PyOpenGL - glutInit 초기화시 에러가 발생할때 .md
 ## PyOpenGL - glutInit 초기화시 에러가 발생할때.. 
 http://mataeoh.egloos.com/7088520
 

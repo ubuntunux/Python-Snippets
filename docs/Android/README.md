@@ -1,2 +1,3 @@
-### [Python Snippets](../README.md) / Android
+> [Python Snippets](../README.md) / Android
+## Android
 - [QPython](QPython.md)

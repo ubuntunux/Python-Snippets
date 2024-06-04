@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / PyOpenGL을 시작할때 참고해야할 문서.md
 ## PyOpenGL을 시작할때 참고해야할 문서
 PyOpenGL을 시작할때 참고해야할 문서
 

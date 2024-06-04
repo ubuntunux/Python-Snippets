@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Python으로 C++ 컴파일 하기.md
 ## Python으로 C++ 컴파일 하기
 ```
 from distutils.core import setup, Extension

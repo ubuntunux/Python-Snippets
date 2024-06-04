@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / 구글 docstring 가이드.md
 ## 구글 docstring 가이드
 [http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html/)
 

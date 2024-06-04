@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [알고리즘](../README.md) / [Sort](README.md) / Quick sort.md
 ## Quick sort
     import random
     

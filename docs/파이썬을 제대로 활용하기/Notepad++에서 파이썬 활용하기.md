@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [파이썬을 제대로 활용하기](README.md) / Notepad++에서 파이썬 활용하기.md
 ## Notepad++에서 파이썬 활용하기
 우선 쓸만한 플러그인부터 설치해보자
 

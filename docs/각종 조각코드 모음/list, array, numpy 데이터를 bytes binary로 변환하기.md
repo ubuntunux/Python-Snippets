@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / list, array, numpy 데이터를 bytes binary로 변환하기.md
 ## list, array, numpy 데이터를 bytes binary로 변환하기
 numpy 또는 list 등을 binary 데이터로 저장하고 싶을때나 반대로 binary data를 numpy나 list로 변환하고 싶을때가 있다. 이럴때 사용해보자.
 

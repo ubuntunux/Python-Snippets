@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / ODBC, MS Acess.md
 ## ODBC, MS Acess
     import odbc
     

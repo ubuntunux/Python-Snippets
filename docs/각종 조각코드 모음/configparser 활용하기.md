@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / configparser 활용하기.md
 ### configparser는 왜필요한가?
 
 cfg, ini 파일 포맷을 활용하여 어플리케이션의 환경설정과 같은 데이터를 저장하고 불러올때 매우 유용하다.

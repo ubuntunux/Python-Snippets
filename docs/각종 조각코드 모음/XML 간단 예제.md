@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / XML 간단 예제.md
 ## XML 간단 예제
 https://docs.python.org/2/library/xml.etree.elementtree.html
     

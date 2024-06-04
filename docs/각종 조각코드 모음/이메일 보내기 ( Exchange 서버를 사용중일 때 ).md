@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / 이메일 보내기 ( Exchange 서버를 사용중일 때 ).md
 ## 이메일 보내기 ( Exchange 서버를 사용중일 때 )
     import smtplib
     

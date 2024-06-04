@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [Logging](README.md) / logging example.md
 ## logging example
 logging 예제)
 

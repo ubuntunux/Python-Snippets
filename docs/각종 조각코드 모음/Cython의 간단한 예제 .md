@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Cython의 간단한 예제 .md
 ## Cython의 간단한 예제 
 http://mataeoh.egloos.com/7066025
 

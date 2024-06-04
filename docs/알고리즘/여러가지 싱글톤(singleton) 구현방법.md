@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [알고리즘](README.md) / 여러가지 싱글톤(singleton) 구현방법.md
 ## 여러가지 싱글톤(singleton) 구현방법
 [http://mataeoh.egloos.com/7081556](http://mataeoh.egloos.com/7081556)
 

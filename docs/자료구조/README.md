@@ -1,4 +1,5 @@
-### [Python Snippets](../README.md) / 자료구조
+> [Python Snippets](../README.md) / 자료구조
+## 자료구조
 - [Dictionary](Dictionary.md)
 - [Enum](Enum.md)
 - [List](List.md)

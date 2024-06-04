@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [Python Image Library ( PIL )](README.md) / 간단한 PIL 예제.md
 ## 간단한 PIL 예제
 ```
 http://mataeoh.egloos.com/7063973

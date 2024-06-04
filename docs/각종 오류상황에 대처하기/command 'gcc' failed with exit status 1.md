@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 오류상황에 대처하기](README.md) / command 'gcc' failed with exit status 1.md
 ## command 'gcc' failed with exit status 1
     distutils.errors.DistutilsError: Setup script exited with error: command 'gcc' failed with exit status 1
 

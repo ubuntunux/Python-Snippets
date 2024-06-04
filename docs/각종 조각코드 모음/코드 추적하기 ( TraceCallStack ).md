@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / 코드 추적하기 ( TraceCallStack ).md
 ## 코드 추적하기 ( TraceCallStack )
 현재 실행중인 소스코드의 파일이름, 라인넘버등을 출력하는 방법입니다.
 

@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [성능 테스트 ( performance )](README.md) / Memory Gabage Collection.md
 ## Memory Gabage Collection
 https://docs.python.org/3/library/gc.html
 

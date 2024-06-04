@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / PyOpenGL - glutCreateWindow에서 wrong type 에러.md
 ## PyOpenGL - glutCreateWindow에서 wrong type 에러
 pyopengl을 테스트 해보려고 실행했느데 glutCreateWindow("hello opengl")와 같이 초기화 함수에서 에러가 발생했다.
 

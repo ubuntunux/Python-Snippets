@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / MSSQL 간단 예제.md
 ## MSSQL 간단 예제
     import pymssql
     conn = pymssql.connect(host='10.3.201.80', user='SMILEGATE\\thyoon', password='password', database='DataViewer')

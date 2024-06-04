@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [각종 조각코드 모음](../README.md) / [멤버 변수에 직접 접근할 것인가  아니면 getter ](README.md) /  setter 패턴을 사용할 것인가.md
 ##  setter 패턴을 사용할 것인가
 객체지향을 추구하는 언어의 대부분에서는 멤버변수에 대한 직접 접근을 꺼린다.
 대부분 get/set과 같은 패턴으로 멤버변수에 대한 인터페이스를 작성하기 마련이다.

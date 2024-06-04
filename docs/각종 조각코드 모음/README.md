@@ -1,4 +1,5 @@
-### [Python Snippets](../README.md) / 각종 조각코드 모음
+> [Python Snippets](../README.md) / 각종 조각코드 모음
+## 각종 조각코드 모음
 - [Beautifule Soup으로 웹페이지 HTML 출력하기](Beautifule%20Soup으로%20웹페이지%20HTML%20출력하기.md)
 - [Cython의 간단한 예제 ](Cython의%20간단한%20예제%20.md)
 - [Gabage Collection 사용하기](Gabage%20Collection%20사용하기.md)
@@ -27,12 +28,12 @@
 - [람다(lambda)](람다(lambda).md)
 - [람다(lambda)대신 고차함수 partial 활용하기](람다(lambda)대신%20고차함수%20partial%20활용하기.md)
 - [기본](멀티프로세싱.md)
-- [멤버 변수에 직접 접근할 것인가  아니면 getter ](멤버%20변수에%20직접%20접근할%20것인가%20%20아니면%20getter%20)
+- [멤버 변수에 직접 접근할 것인가  아니면 getter ](멤버%20변수에%20직접%20접근할%20것인가%20%20아니면%20getter%20/README.md)
 	- [ setter 패턴을 사용할 것인가](멤버%20변수에%20직접%20접근할%20것인가%20%20아니면%20getter%20/%20setter%20패턴을%20사용할%20것인가.md)
 - [모듈 다시 불러오기 ( reload module )](모듈%20다시%20불러오기%20(%20reload%20module%20).md)
 - [문자, ascii, 2, 8, 16진수 변환하기](문자,%20ascii,%202,%208,%2016진수%20변환하기.md)
-- [변수가 있는지 확인하기 ( hasattr ](변수가%20있는지%20확인하기%20(%20hasattr%20)
-	- [ getattr ](변수가%20있는지%20확인하기%20(%20hasattr%20/%20getattr%20)
+- [변수가 있는지 확인하기 ( hasattr ](변수가%20있는지%20확인하기%20(%20hasattr%20/README.md)
+	- [ getattr ](변수가%20있는지%20확인하기%20(%20hasattr%20/%20getattr%20/README.md)
 		- [ setattr )](변수가%20있는지%20확인하기%20(%20hasattr%20/%20getattr%20/%20setattr%20).md)
 - [비어있는 폴더를 모두 지우기 ( Delete a directory recursively in Python )](비어있는%20폴더를%20모두%20지우기%20(%20Delete%20a%20directory%20recursively%20in%20Python%20).md)
 - [사용가능한 port번호 알아내기](사용가능한%20port번호%20알아내기.md)

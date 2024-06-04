@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [GUI](../README.md) / [Tkinter](README.md) / Hyperlink.md
 ## Hyperlink
     from Tkinter import *
     

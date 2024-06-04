@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [문자열과 유니코드 ( String & Unicode )](README.md) / Python encoding 체계 정리.md
 ## Python encoding 체계 정리
 ```
 Python encoding 체계 정리

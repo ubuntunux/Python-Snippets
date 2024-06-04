@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [Anaconda](README.md) / Anaconda CERTIFICATE_VERIFY_FAILED 보완관련 에러.md
 ## Anaconda CERTIFICATE_VERIFY_FAILED 보완관련 에러
 anaconda 설치후 패키지를 다운받거나 할때 아래와 같이 보안관련 에러가 뜰수있다. ( https가 막혀있거나 등등 )
 

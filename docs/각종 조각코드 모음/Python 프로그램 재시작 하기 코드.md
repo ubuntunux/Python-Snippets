@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Python 프로그램 재시작 하기 코드.md
 ## Python 프로그램 재시작 하기 코드
 http://ahmedsoliman.com/2011/09/21/auto-restarting-python-application/
 

@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [Kivy](README.md) / Kivy - Buildozer로 Android APK 만들기.md
 ## Kivy - Buildozer로 Android APK 만들기
 http://mataeoh.egloos.com/7088515
 

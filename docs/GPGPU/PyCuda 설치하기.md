@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [GPGPU](README.md) / PyCuda 설치하기.md
 ## PyCuda 설치하기
 [Previous]()
 ##  PyCuda 설치하기

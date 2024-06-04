@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / Beautifule Soup으로 웹페이지 HTML 출력하기.md
 ## Beautifule Soup으로 웹페이지 HTML 출력하기
 ```
 import requests

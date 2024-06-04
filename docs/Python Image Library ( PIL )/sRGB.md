@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [Python Image Library ( PIL )](README.md) / sRGB.md
 ## sRGB
 PIl은 sRGB 이미지를 불러오던 linear RGB를 불러오던 모두 선형으로 데이터를 변환한다.
 

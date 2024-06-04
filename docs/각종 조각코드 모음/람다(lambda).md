@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / 람다(lambda).md
 ## 람다(lambda)
     def sum(a, b):
         print(a+b)

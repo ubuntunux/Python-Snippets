@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [알고리즘](README.md) / multi method 오버로드.md
 ## multi method 오버로드
     #---------------------#
     # MultiMethod

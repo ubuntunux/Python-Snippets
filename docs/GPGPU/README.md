@@ -1,4 +1,5 @@
-### [Python Snippets](../README.md) / GPGPU
+> [Python Snippets](../README.md) / GPGPU
+## GPGPU
 - [PyCuda 설치하기](PyCuda%20설치하기.md)
 - [PyOpenGL - AttributeError - 'numpy.ndarray' object has no attribute 'buffers' ](PyOpenGL%20-%20AttributeError%20-%20'numpy.ndarray'%20object%20has%20no%20attribute%20'buffers'%20.md)
 - [PyOpenGL - glutCreateWindow에서 wrong type 에러](PyOpenGL%20-%20glutCreateWindow에서%20wrong%20type%20에러.md)

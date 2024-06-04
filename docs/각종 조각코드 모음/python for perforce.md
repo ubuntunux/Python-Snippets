@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / python for perforce.md
 ## python for perforce
 help : http://www.perforce.com/perforce/doc.current/manuals/p4script/chapter.python.html
 

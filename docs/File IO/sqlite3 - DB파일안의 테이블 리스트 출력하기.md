@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [File IO](README.md) / sqlite3 - DB파일안의 테이블 리스트 출력하기.md
 ## sqlite3 - DB파일안의 테이블 리스트 출력하기
     con = sqlite3.connect('database.db')
     cursor = con.cursor()

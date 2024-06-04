@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [자료구조](README.md) / Enum.md
 ## Enum
     8.13. enum — Support for enumerations
     New in version 3.4.

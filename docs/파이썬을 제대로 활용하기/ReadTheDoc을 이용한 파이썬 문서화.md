@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [파이썬을 제대로 활용하기](README.md) / ReadTheDoc을 이용한 파이썬 문서화.md
 ## ReadTheDoc을 이용한 파이썬 문서화
 가장먼저 sphinx모듈 설치
 ```

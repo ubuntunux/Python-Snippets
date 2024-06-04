@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / PEP8 - 파이썬 스타일 가이드.md
 ## PEP8 - 파이썬 스타일 가이드
 [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008//)
 

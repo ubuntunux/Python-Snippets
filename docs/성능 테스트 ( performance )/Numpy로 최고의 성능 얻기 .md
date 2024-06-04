@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [성능 테스트 ( performance )](README.md) / Numpy로 최고의 성능 얻기 .md
 ## Numpy로 최고의 성능 얻기 
 [http://ipython-books.github.io/featured-01/](http://ipython-books.github.io/featured-01/)
 

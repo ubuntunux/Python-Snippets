@@ -8,31 +8,44 @@ document_dirname = 'docs'
 image_dirname = 'img'
 markdown_ext = '.md'
 readme_filename = 'README' + markdown_ext
-previous_url = f'[CONTENTS](README.md)'
-
+url_prefix = '> '
 
 class Content:
     def __init__(self, dirpath, content, is_file):
         self._dirpath = dirpath
         self._content = content
         self._is_file = is_file
-        self._content_name = os.path.splitext(content)[0] if is_file else content
+        if is_file:
+            self._content_name = os.path.splitext(content)[0]
+        else:
+            self._content_name = content
         self._content_path = os.path.join(dirpath, content)
+        self._content_url_paths = self.calc_content_url_paths()
         self._children = []
 
+        self.validate_document()
+
+    def validate_document(self):
         # validate document
-        if is_file:
+        if self._is_file:
             with open(self._content_path, 'r') as f:
                 contents = f.read().split('\n')
                 modified = False
 
-                # check previous
-                if len(contents) < 1 or not contents[0].startswith(previous_url):
-                    contents.insert(0, previous_url)
-                    modified = True
+                # check url_paths
+                if 1 < len(contents) and contents[0].startswith(url_prefix):
+                    # replace
+                    if self._content_url_paths != contents[0]:
+                        contents[0] = self._content_url_paths
+                        modified = True
+                elif len(contents) < 1 or not contents[0].startswith(url_prefix):
+                        # insert
+                        contents.insert(0, self._content_url_paths)
+                        modified = True
 
                 # check title
                 if 1 < len(contents) and contents[1].startswith('#'):
+                    # replace document title
                     m = re_title.match(contents[1])
                     if m:
                         self._content_name = m.groups()[0]
@@ -52,7 +65,7 @@ class Content:
 
         # validate filename
         for x in ':;"?/\\[]<>':
-            if x in content:
+            if x in self._content:
                 print(f'Error: invalidate filename: {self._content_path}')
                 break
 
@@ -62,11 +75,30 @@ class Content:
     def __str__(self):
         return f'dirpath: {self._dirpath}, content: {self._content}'
 
+    def calc_content_url_paths(self):
+        title = self._content_path.replace(document_dirname, docs_title, 1)
+        tokens = title.split('/')
+        num_tonkens = len(tokens)
+        parent_pages = []
+        for (i, token) in enumerate(tokens):
+            if (num_tonkens - 1) == i:
+                parent_pages.append(token)
+            else:
+                if self._is_file:
+                    parent_page_filename = ('../' * (num_tonkens - 2 - i)) + readme_filename
+                else:
+                    parent_page_filename = ('../' * (num_tonkens - 1 - i)) + readme_filename
+                parent_pages.append(f'[{token}]({parent_page_filename})')
+        return url_prefix + ' / '.join(parent_pages)
+
     def get_content_url(self, root_path):
         relative_content_path = os.path.relpath(self._content_path, root_path)
         tab = '\t' * (relative_content_path.count('/'))
+        if not self._is_file:
+            relative_content_path = os.path.join(relative_content_path, readme_filename)
         content_path = relative_content_path.replace(' ', '%20')
         return f'{tab}- [{self._content_name}]({content_path})'
+
 
 def generate_contents_tree(content_map, dirpath, dirnames, filenames):
     parent_content = content_map[dirpath]
@@ -95,7 +127,7 @@ def gather_contents(root, content, contents_list):
     for child in content._children:
         gather_contents(root, child, contents_list)
 
-def write_to_read(content):
+def write_to_readme(content):
     if content._is_file or len(content._children) < 1:
         return
 
@@ -103,26 +135,17 @@ def write_to_read(content):
     contents_list = []
     gather_contents(content, content, contents_list)
 
-    content_dirpath = os.path.join(content._dirpath, content._content)
-    readme_filepath = os.path.join(content_dirpath, readme_filename)
+    readme_filepath = os.path.join(content._content_path, readme_filename)
     with open(readme_filepath, 'w') as f:
-        title = content_dirpath.replace(document_dirname, docs_title, 1)
-        tokens = title.split('/')
-        num_tonkens = len(tokens)
-        parent_pages = []
-        for (i, token) in enumerate(tokens):
-            if (num_tonkens - 1) == i:
-                parent_pages.append(token)
-            else:
-                parent_page_filename = ('../' * (num_tonkens - 1 - i)) + readme_filename
-                parent_pages.append(f'[{token}]({parent_page_filename})')
-        f.write(f"### {' / '.join(parent_pages)}\n")
+        f.write(f"{content._content_url_paths}\n")
+        readme_title = docs_title if content._content_name == document_dirname else content._content_name
+        f.write(f"## {readme_title}\n")
         f.write('\n'.join(contents_list))
     print(f'write: {readme_filepath}')
 
     # recursive write to readme
     for child in content._children:
-        write_to_read(child)
+        write_to_readme(child)
 
 def clean_up_empty_directory(path):
     for x in os.listdir(path):
@@ -163,4 +186,4 @@ if __name__ == '__main__':
             generate_contents_tree(content_map, dirpath, dirnames, filenames)
 
     # recursive write readme
-    write_to_read(root)
+    write_to_readme(root)

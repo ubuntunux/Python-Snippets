@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [성능 테스트 ( performance )](README.md) / Python Performance Tips.md
 ## Python Performance Tips
 [https://wiki.python.org/moin/PythonSpeed/PerformanceTips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips/)
 

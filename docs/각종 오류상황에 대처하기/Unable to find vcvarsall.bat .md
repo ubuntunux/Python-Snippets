@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 오류상황에 대처하기](README.md) / Unable to find vcvarsall.bat .md
 ## error: Unable to find vcvarsall.bat 
 http://mataeoh.egloos.com/7066046
 

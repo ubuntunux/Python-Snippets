@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [성능 테스트 ( performance )](../README.md) / [IPython](README.md) / Hide Input Code Toggle.md
 ## Hide Input Code Toggle
 방법1
 

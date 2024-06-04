@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../README.md) / [각종 조각코드 모음](README.md) / numpy로 데이터 pointer(포인터) 주소 알아내기.md
 ## numpy로 데이터 pointer(포인터) 주소 알아내기
 [https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.ctypes.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.ctypes.html)
 

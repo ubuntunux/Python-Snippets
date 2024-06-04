@@ -1,4 +1,4 @@
-[CONTENTS](README.md)
+> [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [py2exe](README.md) / py2exe 다른 글.md
 ## py2exe 다른 글
 [원문] : [http://www.gamedevforever.com/235](http://www.gamedevforever.com/235)
 
