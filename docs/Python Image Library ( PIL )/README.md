@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [Python Image Library ( PIL )](README.md)
+### [Python Snippets](../README.md) / Python Image Library ( PIL )
 - [> Pixel Read](Pixel%20Read/README.md)
 - [Font 다루기](Font%20다루기.md)
 - [sRGB](sRGB.md)

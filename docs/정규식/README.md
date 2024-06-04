@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [정규식](README.md)
+### [Python Snippets](../README.md) / 정규식
 - [재귀 정규식](재귀%20정규식.md)
 - [정규식 옵션들](정규식%20옵션들.md)
 - [주석문 처리하기](주석문%20처리하기.md)

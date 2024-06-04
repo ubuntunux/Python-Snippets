@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [파이썬을 제대로 활용하기](README.md)
+### [Python Snippets](../README.md) / 파이썬을 제대로 활용하기
 - [> Anaconda](Anaconda/README.md)
 - [> Python Extension](Python%20Extension/README.md)
 - [> gcc ](gcc%20/README.md)

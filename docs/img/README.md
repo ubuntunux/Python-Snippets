@@ -1,1 +1,1 @@
-### [Python Snippets](../README.md) / [img](README.md)
+### [Python Snippets](../README.md) / img

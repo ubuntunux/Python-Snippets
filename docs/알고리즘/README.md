@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [알고리즘](README.md)
+### [Python Snippets](../README.md) / 알고리즘
 - [> Sort](Sort/README.md)
 - [> overriding - __new__ ](overriding%20-%20__new__%20/README.md)
 - [> overriding - add ](overriding%20-%20add%20/README.md)

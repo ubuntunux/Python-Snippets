@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [GPGPU](README.md)
+### [Python Snippets](../README.md) / GPGPU
 - [> PyOpenCL ](PyOpenCL%20/README.md)
 - [> PyOpenCL](PyOpenCL/README.md)
 - [PyOpenGL - glutCreateWindow에서 wrong type 에러](PyOpenGL%20-%20glutCreateWindow에서%20wrong%20type%20에러.md)

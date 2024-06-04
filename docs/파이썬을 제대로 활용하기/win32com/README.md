@@ -1,4 +1,4 @@
-### [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / [win32com](README.md)
+### [Python Snippets](../../README.md) / [파이썬을 제대로 활용하기](../README.md) / win32com
 - [ 아웃룩 이메일 보내기](%20아웃룩%20이메일%20보내기.md)
 - [아웃룩 다른 예제](아웃룩%20다른%20예제.md)
 - [아웃룩 컨트롤 하기](아웃룩%20컨트롤%20하기.md)

@@ -1,4 +1,4 @@
-### [Python Snippets](README.md)
+### Python Snippets
 - [> Android](Android/README.md)
 - [> File IO](File%20IO/README.md)
 - [> GPGPU](GPGPU/README.md)

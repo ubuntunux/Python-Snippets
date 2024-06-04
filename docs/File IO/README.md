@@ -1,4 +1,4 @@
-### [Python Snippets](../README.md) / [File IO](README.md)
+### [Python Snippets](../README.md) / File IO
 - [> os.walk 모든 파일](os.walk%20모든%20파일/README.md)
 - [> 파일 read ](파일%20read%20/README.md)
 - [glob - 특정 파일만 출력하기](glob%20-%20특정%20파일만%20출력하기.md)

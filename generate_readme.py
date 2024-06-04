@@ -34,8 +34,11 @@ def generate_contents(dirpath, dirnames, filenames):
         num_tonkens = len(tokens)
         parent_pages = []
         for (i, token) in enumerate(tokens):
-            parent_page_filename = ('../' * (num_tonkens - 1 - i)) + contents_filename
-            parent_pages.append(f'[{token}]({parent_page_filename})')
+            if (num_tonkens - 1) == i:
+                parent_pages.append(token)
+            else:
+                parent_page_filename = ('../' * (num_tonkens - 1 - i)) + contents_filename
+                parent_pages.append(f'[{token}]({parent_page_filename})')
         f.write(f"### {' / '.join(parent_pages)}\n")
         f.write('\n'.join(contents_list))
     print(f'write: {contents_filepath}')
