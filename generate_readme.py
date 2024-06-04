@@ -16,11 +16,10 @@ def generate_contents(dirpath, dirnames, filenames):
                 content_path = filename.replace(' ', '%20')
                 contents_list.append(f'- [{content_name}]({content_path})')
 
-
     for dirname in dirnames:
         if dirname != image_dirname:
             content_name = dirname
-            content_path = os.path.join(dirname, contents_filename).replace(' ', '%20')
+            content_path = dirname.replace(' ', '%20')
             contents_list.append(f'- [{content_name}]({content_path})')
 
     contents_list.sort()
