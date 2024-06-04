@@ -1,0 +1,1 @@
+gcc / visual c / mingw 설치하기
