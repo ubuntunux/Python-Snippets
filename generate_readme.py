@@ -24,9 +24,6 @@ def generate_contents(dirpath, dirnames, filenames):
 
     contents_list.sort()
     contents_filepath = os.path.join(dirpath, contents_filename)
-    old_contents_filepath = os.path.join(dirpath, 'contents' + markdown_ext)
-    if os.path.exists(old_contents_filepath):
-        os.remove(old_contents_filepath)
 
     with open(contents_filepath, 'w') as f:
         title = dirpath.replace(document_dirname, docs_title, 1)
