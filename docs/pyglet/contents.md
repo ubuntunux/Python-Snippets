@@ -1,2 +1,0 @@
-### [Python Snippets](../contents.md) / [pyglet](contents.md)
-- [pyglet get_devices() error - ctypes.ArgumentError: argument 2: <class 'TypeError'>: wrong type](pyglet%20get_devices()%20error%20-%20ctypes.ArgumentError:%20argument%202:%20<class%20'TypeError'>:%20wrong%20type.md)

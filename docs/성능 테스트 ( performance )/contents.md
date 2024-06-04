@@ -1,8 +1,0 @@
-### [Python Snippets](../contents.md) / [성능 테스트 ( performance )](contents.md)
-- [IPython](IPython/contents.md)
-- [Memory Gabage Collection](Memory%20Gabage%20Collection.md)
-- [Numpy로 최고의 성능 얻기 ](Numpy로%20최고의%20성능%20얻기%20.md)
-- [Python Performance Tips](Python%20Performance%20Tips.md)
-- [analyzing python ( 프로파일링 )](analyzing%20python%20(%20프로파일링%20).md)
-- [numpy array 값 복사 성능테스트](numpy%20array%20값%20복사%20성능테스트.md)
-- [파이썬 코드를 프로파일링하는 여러가지 방법](파이썬%20코드를%20프로파일링하는%20여러가지%20방법.md)
