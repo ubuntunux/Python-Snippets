@@ -7,6 +7,9 @@ markdown_ext = '.md'
 contents_filename = 'README' + markdown_ext
 
 def generate_contents(dirpath, dirnames, filenames):
+    if os.path.split(dirpath)[1] == image_dirname:
+        return
+
     contents_list = []
 
     for filename in filenames:
