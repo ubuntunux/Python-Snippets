@@ -1,5 +1,5 @@
 ### [Python Snippets](../README.md) / Python Image Library ( PIL )
-- [> Pixel Read](Pixel%20Read/README.md)
+- [> Pixel Read](Pixel%20Read)
 - [Font 다루기](Font%20다루기.md)
 - [sRGB](sRGB.md)
 - [간단한 PIL 예제](간단한%20PIL%20예제.md)

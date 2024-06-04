@@ -1,6 +1,6 @@
 ### [Python Snippets](../README.md) / 각종 조각코드 모음
-- [> 멤버 변수에 직접 접근할 것인가  아니면 getter ](멤버%20변수에%20직접%20접근할%20것인가%20%20아니면%20getter%20/README.md)
-- [> 변수가 있는지 확인하기 ( hasattr ](변수가%20있는지%20확인하기%20(%20hasattr%20/README.md)
+- [> 멤버 변수에 직접 접근할 것인가  아니면 getter ](멤버%20변수에%20직접%20접근할%20것인가%20%20아니면%20getter%20)
+- [> 변수가 있는지 확인하기 ( hasattr ](변수가%20있는지%20확인하기%20(%20hasattr%20)
 - [Beautifule Soup으로 웹페이지 HTML 출력하기](Beautifule%20Soup으로%20웹페이지%20HTML%20출력하기.md)
 - [Cython의 간단한 예제 ](Cython의%20간단한%20예제%20.md)
 - [Gabage Collection 사용하기](Gabage%20Collection%20사용하기.md)

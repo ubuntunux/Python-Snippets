@@ -1,7 +1,7 @@
 ### [Python Snippets](../README.md) / 알고리즘
-- [> Sort](Sort/README.md)
-- [> overriding - __new__ ](overriding%20-%20__new__%20/README.md)
-- [> overriding - add ](overriding%20-%20add%20/README.md)
+- [> Sort](Sort)
+- [> overriding - __new__ ](overriding%20-%20__new__%20)
+- [> overriding - add ](overriding%20-%20add%20)
 - [Generator](Generator.md)
 - [Quine - 자신의 소스코드를 출력하는 프로그램](Quine%20-%20자신의%20소스코드를%20출력하는%20프로그램.md)
 - [default method overriding 의 기초](default%20method%20overriding%20의%20기초.md)
