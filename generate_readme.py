@@ -9,6 +9,7 @@ image_dirname = 'img'
 markdown_ext = '.md'
 readme_filename = 'README' + markdown_ext
 url_prefix = '> '
+invalid_string = '`:;"?/\\[]<>'
 
 class Content:
     def __init__(self, dirpath, content, is_file):
@@ -64,7 +65,7 @@ class Content:
                         print(traceback.format_exc())
 
         # validate filename
-        for x in ':;"?/\\[]<>':
+        for x in invalid_string:
             if x in self._content:
                 print(f'Error: invalidate filename: {self._content_path}')
                 break
